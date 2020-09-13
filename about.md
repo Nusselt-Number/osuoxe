@@ -1,9 +1,7 @@
 ---
 layout: default
-title: About
+title: About OXE
 ---
-# About page
+# Who We Are
 
-This page tells you a little bit about me.
-
-
+A group of Chemical Engineering students, interested in promoting connections between undergrads, graduates, and faculty in the William G. Lowrie department of Chemical and Biomolecular Engineering.  We mostly focus on workshops, volunteering, and other forms of academic and community enrichment.
