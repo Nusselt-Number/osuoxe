@@ -4,6 +4,9 @@ title: Current Officers
 ---
 # Officers
 
-## President Justin Hopkins
-
-## IDK Everyone Else
+|Name|Position|
+|Justin Hopkins|President|
+|Jack Thomas|IDK|
+|Laura Kryah|IDK|
+|Alex Bazjer|IDK|
+|Alec Pellicciotti|IDK|
